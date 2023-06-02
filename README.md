@@ -1,2 +1,2 @@
-# flightrr
+# flightir
 Flight Insights In R
